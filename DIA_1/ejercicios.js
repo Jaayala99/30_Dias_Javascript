@@ -46,7 +46,7 @@
     var nombre = "Juan Antonio" , edad = 23 , apellidos = "Ayala Garcia" , país = "España" , estado_civil = "Soltero";
 
 // 10.- Declare dos variables myAge y yourAge y asígneles valores iniciales e inicie sesión en la consola del navegador.
-    var myAge = 23;
+    var myAge = 24;
     var yourAge = 48;
     console.log(myAge , yourAge);
 
