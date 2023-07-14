@@ -79,7 +79,7 @@
         'Ireland',
         'Japan',
         'Kenya',
-        'España'
+        
     ]
 
     if(paises.length%2==0){
